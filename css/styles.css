@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+}
+.box{
+  text-align: center;
+  padding-left: 500px;
+}
+.border{
+  border: 2px solid black;
+  text-align: center;
+  margin: : 20px;
+
+}
